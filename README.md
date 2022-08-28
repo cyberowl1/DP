@@ -6,4 +6,4 @@ All practiced dynamic programming problem solution in c++.
 2. Fibonacci Series.
 3. Longest Increasing subsquence.
 4. Change String A  to B.
-5. 
+5. check if sum is possible from given sets of number.
